@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="-Htk9T0dgy_z6CVtHg-7">
-    <mxGraphModel dx="1139" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2278" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -347,6 +347,109 @@
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-73" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="382" y="2660" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-74" value="马拉松报名系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2760" width="1570" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-75" value="报名者" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="KLZFWvPaAveQ6kD436Bz-74">
+          <mxGeometry x="225" y="46" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-76" value="注册账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="KLZFWvPaAveQ6kD436Bz-74">
+          <mxGeometry x="43" y="192" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-77" value="在线支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="KLZFWvPaAveQ6kD436Bz-74">
+          <mxGeometry x="217" y="192" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-78" value="物资状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="KLZFWvPaAveQ6kD436Bz-74">
+          <mxGeometry x="391" y="192" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-79" value="组委会" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="KLZFWvPaAveQ6kD436Bz-74">
+          <mxGeometry x="660" y="46" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-80" value="报名资料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="KLZFWvPaAveQ6kD436Bz-74">
+          <mxGeometry x="565" y="192" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-81" value="参赛号码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="KLZFWvPaAveQ6kD436Bz-74">
+          <mxGeometry x="739" y="192" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-82" value="财务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="KLZFWvPaAveQ6kD436Bz-74">
+          <mxGeometry x="1016" y="46" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-83" value="支付流水" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="KLZFWvPaAveQ6kD436Bz-74">
+          <mxGeometry x="913" y="192" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-84" value="退款申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="KLZFWvPaAveQ6kD436Bz-74">
+          <mxGeometry x="1087" y="192" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-85" value="物资部" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="KLZFWvPaAveQ6kD436Bz-74">
+          <mxGeometry x="1344" y="46" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-86" value="参赛包" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="KLZFWvPaAveQ6kD436Bz-74">
+          <mxGeometry x="1261" y="192" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-87" value="领取记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="KLZFWvPaAveQ6kD436Bz-74">
+          <mxGeometry x="1419" y="192" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-88" value="提交" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="KLZFWvPaAveQ6kD436Bz-74" source="KLZFWvPaAveQ6kD436Bz-75" target="KLZFWvPaAveQ6kD436Bz-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="105" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-89" value="完成" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="KLZFWvPaAveQ6kD436Bz-74" source="KLZFWvPaAveQ6kD436Bz-75" target="KLZFWvPaAveQ6kD436Bz-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-90" value="查询" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="KLZFWvPaAveQ6kD436Bz-74" source="KLZFWvPaAveQ6kD436Bz-75" target="KLZFWvPaAveQ6kD436Bz-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="453" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-91" value="审核" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="KLZFWvPaAveQ6kD436Bz-74" source="KLZFWvPaAveQ6kD436Bz-79" target="KLZFWvPaAveQ6kD436Bz-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="627" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-92" value="分配" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="KLZFWvPaAveQ6kD436Bz-74" source="KLZFWvPaAveQ6kD436Bz-79" target="KLZFWvPaAveQ6kD436Bz-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="801" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-93" value="核对" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="KLZFWvPaAveQ6kD436Bz-74" source="KLZFWvPaAveQ6kD436Bz-82" target="KLZFWvPaAveQ6kD436Bz-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="975" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-94" value="处理" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="KLZFWvPaAveQ6kD436Bz-74" source="KLZFWvPaAveQ6kD436Bz-82" target="KLZFWvPaAveQ6kD436Bz-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1149" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-95" value="管理" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="KLZFWvPaAveQ6kD436Bz-74" source="KLZFWvPaAveQ6kD436Bz-85" target="KLZFWvPaAveQ6kD436Bz-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1315" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-96" value="登记" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="KLZFWvPaAveQ6kD436Bz-74" source="KLZFWvPaAveQ6kD436Bz-85" target="KLZFWvPaAveQ6kD436Bz-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1481" y="143" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
