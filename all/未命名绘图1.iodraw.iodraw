@@ -345,8 +345,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KLZFWvPaAveQ6kD436Bz-73" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="382" y="2660" width="30" height="60" as="geometry" />
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-73" value="flowchart TD&#xa;    %% 临时替代方案 - 使用流程图形式表示用例关系&#xa;    subgraph 马拉松报名系统&#xa;        报名者 --&gt;|提交| 注册账号&#xa;        报名者 --&gt;|完成| 在线支付&#xa;        报名者 --&gt;|查询| 物资状态&#xa;        &#xa;        组委会 --&gt;|审核| 报名资料&#xa;        组委会 --&gt;|分配| 参赛号码&#xa;        &#xa;        财务 --&gt;|核对| 支付流水&#xa;        财务 --&gt;|处理| 退款申请&#xa;        &#xa;        物资部 --&gt;|管理| 参赛包&#xa;        物资部 --&gt;|登记| 领取记录&#xa;    end&#xa;&#xa;&#xa;    classDef actor fill:#e6f3ff,stroke:#3385ff;&#xa;    classDef usecase fill:#fff,stroke:#666;&#xa;    class 报名者,组委会,财务,物资部 actor&#xa;    class 注册账号,在线支付,物资状态,报名资料,参赛号码,支付流水,退款申请,参赛包,领取记录 usecase" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="588" y="2370" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-74" value="马拉松报名系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="270" y="2760" width="1570" height="270" as="geometry" />
