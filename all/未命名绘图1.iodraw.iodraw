@@ -346,7 +346,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-73" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="2630" width="30" height="60" as="geometry" />
+          <mxGeometry x="382" y="2660" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
