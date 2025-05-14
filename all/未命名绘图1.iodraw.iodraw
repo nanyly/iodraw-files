@@ -349,7 +349,7 @@
           <mxGeometry x="550" y="2420" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-98" value="组委会" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="2660" width="30" height="60" as="geometry" />
+          <mxGeometry x="980" y="2360" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-99" value="物资部" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="2630" width="30" height="60" as="geometry" />
@@ -488,6 +488,12 @@
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-36" value="处理退款申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="2470" width="99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EOuvVJ0Llqo85WcCsKMf-38" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EOuvVJ0Llqo85WcCsKMf-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="2590" as="sourcePoint" />
+            <mxPoint x="870" y="2540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
