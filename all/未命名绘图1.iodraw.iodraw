@@ -478,9 +478,6 @@
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-3" value="发布赛事信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="661" y="2570" width="99" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EOuvVJ0Llqo85WcCsKMf-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EOuvVJ0Llqo85WcCsKMf-7" target="EOuvVJ0Llqo85WcCsKMf-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-7" value="核对支付流水" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="783" y="2320" width="99" height="40" as="geometry" />
         </mxCell>
