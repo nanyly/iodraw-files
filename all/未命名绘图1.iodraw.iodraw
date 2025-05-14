@@ -544,8 +544,14 @@
             <mxPoint x="870" y="2530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EOuvVJ0Llqo85WcCsKMf-21" value="发布赛事信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="671" y="2580" width="99" height="40" as="geometry" />
+        <mxCell id="EOuvVJ0Llqo85WcCsKMf-21" value="确认报名信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="661" y="2620" width="99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EOuvVJ0Llqo85WcCsKMf-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="2520" as="sourcePoint" />
+            <mxPoint x="870" y="2470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
