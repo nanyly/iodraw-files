@@ -373,10 +373,10 @@
           <mxGeometry x="661" y="2570" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-3" value="发布赛事信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="2370" width="99" height="40" as="geometry" />
+          <mxGeometry x="790" y="2320" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-7" value="核对支付流水" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="783" y="2320" width="99" height="40" as="geometry" />
+          <mxGeometry x="790" y="2525" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-8" value="提交退赛表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="661" y="2470" width="99" height="40" as="geometry" />
