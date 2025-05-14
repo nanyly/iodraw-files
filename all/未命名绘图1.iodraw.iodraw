@@ -345,7 +345,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KLZFWvPaAveQ6kD436Bz-73" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="KLZFWvPaAveQ6kD436Bz-73" value="报名者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="588" y="2370" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-74" value="马拉松报名系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
