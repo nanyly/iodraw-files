@@ -484,7 +484,7 @@
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-8" value="提交退赛表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="661" y="2420" width="99" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EOuvVJ0Llqo85WcCsKMf-9" value="核对支付流水" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EOuvVJ0Llqo85WcCsKMf-9" value="处理退款申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="783" y="2370" width="99" height="40" as="geometry" />
         </mxCell>
       </root>
