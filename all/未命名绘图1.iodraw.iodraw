@@ -483,11 +483,14 @@
         <mxCell id="fAG9YhZRCLTaCMR5JaCY-2" value="查看我的荣誉" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="2640" width="99" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fAG9YhZRCLTaCMR5JaCY-3" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KLZFWvPaAveQ6kD436Bz-73">
+        <mxCell id="fAG9YhZRCLTaCMR5JaCY-3" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLZFWvPaAveQ6kD436Bz-73" target="fAG9YhZRCLTaCMR5JaCY-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="2700" as="sourcePoint" />
             <mxPoint x="310" y="2650" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fAG9YhZRCLTaCMR5JaCY-4" value="查看我的荣誉" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="2690" width="99" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
