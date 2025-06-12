@@ -378,7 +378,7 @@
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-7" value="录入支付凭证" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="503" y="2740" width="99" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EOuvVJ0Llqo85WcCsKMf-8" value="提交退赛表" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EOuvVJ0Llqo85WcCsKMf-8" value="提交退赛申请" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="371" y="2540" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KLZFWvPaAveQ6kD436Bz-73" target="KLZFWvPaAveQ6kD436Bz-106" edge="1">
@@ -468,7 +468,7 @@
             <mxPoint x="580" y="2540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EOuvVJ0Llqo85WcCsKMf-34" value="审核报名信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EOuvVJ0Llqo85WcCsKMf-34" value="审核赛事信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="498" y="2440" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-35" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="KLZFWvPaAveQ6kD436Bz-98" target="EOuvVJ0Llqo85WcCsKMf-34" edge="1">
