@@ -349,7 +349,7 @@
           <mxGeometry x="260" y="2490" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-98" value="组委会" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="690" y="2490" width="30" height="60" as="geometry" />
+          <mxGeometry x="683" y="2370" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-99" value="物资部" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="690" y="2740" width="30" height="60" as="geometry" />
@@ -506,9 +506,6 @@
             <mxPoint x="680" y="2870" as="sourcePoint" />
             <mxPoint x="730" y="2820" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="fAG9YhZRCLTaCMR5JaCY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KLZFWvPaAveQ6kD436Bz-98" target="KLZFWvPaAveQ6kD436Bz-98">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
