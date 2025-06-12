@@ -459,7 +459,7 @@
             <mxPoint x="280" y="2690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EOuvVJ0Llqo85WcCsKMf-32" value="查看报名状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EOuvVJ0Llqo85WcCsKMf-32" value="赛事查询" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="371" y="2490" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-33" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KLZFWvPaAveQ6kD436Bz-73" target="EOuvVJ0Llqo85WcCsKMf-32" edge="1">
