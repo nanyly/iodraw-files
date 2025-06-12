@@ -492,6 +492,9 @@
         <mxCell id="fAG9YhZRCLTaCMR5JaCY-4" value="查看关注的赛事" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="371" y="2690" width="99" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fAG9YhZRCLTaCMR5JaCY-7" value="查看报名记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="2740" width="99" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
