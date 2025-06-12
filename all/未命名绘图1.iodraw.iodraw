@@ -352,7 +352,7 @@
           <mxGeometry x="690" y="2490" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-99" value="物资部" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="710" y="2730" width="30" height="60" as="geometry" />
+          <mxGeometry x="690" y="2740" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-100" value="财务部" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="2740" width="30" height="60" as="geometry" />
