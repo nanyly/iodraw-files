@@ -952,7 +952,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-157" value="参&lt;div&gt;赛&lt;/div&gt;&lt;div&gt;者&lt;/div&gt;&lt;div&gt;物&lt;/div&gt;&lt;div&gt;资&lt;/div&gt;&lt;div&gt;查&lt;/div&gt;&lt;div&gt;询&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1479" y="3270" width="30" height="90" as="geometry" />
+          <mxGeometry x="1479" y="3270" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-158" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-159">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
