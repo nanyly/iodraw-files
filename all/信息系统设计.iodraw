@@ -510,6 +510,9 @@
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-1" value="马拉松报名系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1074" y="2611" width="191" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="841" y="2663" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
