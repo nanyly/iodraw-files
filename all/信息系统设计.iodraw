@@ -936,6 +936,15 @@
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-153" value="库&lt;div&gt;存&lt;/div&gt;&lt;div&gt;状&lt;/div&gt;&lt;div&gt;态&lt;/div&gt;&lt;div&gt;筛&lt;/div&gt;&lt;div&gt;选&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1441" y="3270" width="30" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-154" value="荣&lt;div&gt;誉&lt;/div&gt;&lt;div&gt;展&lt;/div&gt;&lt;div&gt;示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="3280" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-155" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-154">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="3190" as="sourcePoint" />
+            <mxPoint x="910" y="3250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
