@@ -689,8 +689,8 @@
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-63" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1360.17" y="3270" as="sourcePoint" />
-            <mxPoint x="1360.17" y="3240" as="targetPoint" />
+            <mxPoint x="1346.17" y="3270" as="sourcePoint" />
+            <mxPoint x="1346.17" y="3240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-64" value="库&lt;div&gt;存&lt;/div&gt;&lt;div&gt;查&lt;/div&gt;&lt;div&gt;询&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -700,7 +700,7 @@
           <mxGeometry x="1295" y="3270" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-66" value="补&lt;div&gt;充&lt;/div&gt;&lt;div&gt;物&lt;/div&gt;&lt;div&gt;资&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1345" y="3270" width="30" height="80" as="geometry" />
+          <mxGeometry x="1331" y="3270" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-67" value="报&lt;div&gt;名&lt;/div&gt;&lt;div&gt;审&lt;/div&gt;&lt;div&gt;核&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1655" y="3270" width="30" height="80" as="geometry" />
@@ -911,30 +911,30 @@
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-148" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-149">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1409.17" y="3270" as="sourcePoint" />
-            <mxPoint x="1409.17" y="3240" as="targetPoint" />
+            <mxPoint x="1394.17" y="3270" as="sourcePoint" />
+            <mxPoint x="1394.17" y="3240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-149" value="编&lt;div&gt;辑&lt;/div&gt;&lt;div&gt;库&lt;/div&gt;&lt;div&gt;存&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1394" y="3270" width="30" height="80" as="geometry" />
+          <mxGeometry x="1379" y="3270" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-150" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-151">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1455.17" y="3270" as="sourcePoint" />
-            <mxPoint x="1455.17" y="3240" as="targetPoint" />
+            <mxPoint x="1440.17" y="3270" as="sourcePoint" />
+            <mxPoint x="1440.17" y="3240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-151" value="补&lt;div&gt;充&lt;/div&gt;&lt;div&gt;物&lt;/div&gt;&lt;div&gt;资&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="3270" width="30" height="80" as="geometry" />
+          <mxGeometry x="1425" y="3270" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-152" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-153">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1504.17" y="3270" as="sourcePoint" />
-            <mxPoint x="1504.17" y="3240" as="targetPoint" />
+            <mxPoint x="1489.17" y="3270" as="sourcePoint" />
+            <mxPoint x="1489.17" y="3240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-153" value="编&lt;div&gt;辑&lt;/div&gt;&lt;div&gt;库&lt;/div&gt;&lt;div&gt;存&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1489" y="3270" width="30" height="80" as="geometry" />
+          <mxGeometry x="1474" y="3270" width="30" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
