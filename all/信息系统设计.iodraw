@@ -756,12 +756,6 @@
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-77" value="马拉松报名系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="519" y="2338" width="87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OpLHQuc6GiIbfkLoHCsy-79" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="2750" as="sourcePoint" />
-            <mxPoint x="190" y="2700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
