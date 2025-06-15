@@ -706,13 +706,13 @@
           <mxGeometry x="1253" y="2750" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-67" value="缴&lt;div&gt;纳&lt;/div&gt;&lt;div&gt;报&lt;/div&gt;&lt;div&gt;名&lt;/div&gt;&lt;div&gt;费&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1014" y="2770" width="30" height="80" as="geometry" />
+          <mxGeometry x="1325" y="2750" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-68" value="录&lt;div&gt;入&lt;/div&gt;&lt;div&gt;凭&lt;/div&gt;&lt;div&gt;证&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1064" y="2770" width="30" height="80" as="geometry" />
+          <mxGeometry x="1375" y="2750" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-69" value="退&lt;div&gt;还&lt;/div&gt;&lt;div&gt;报&lt;/div&gt;&lt;div&gt;名&lt;/div&gt;&lt;div&gt;费&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1114" y="2770" width="30" height="80" as="geometry" />
+          <mxGeometry x="1425" y="2750" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-70" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
