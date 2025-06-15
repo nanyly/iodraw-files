@@ -924,17 +924,17 @@
             <mxPoint x="1419.17" y="3240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OpLHQuc6GiIbfkLoHCsy-151" value="补&lt;div&gt;充&lt;/div&gt;&lt;div&gt;物&lt;/div&gt;&lt;div&gt;资&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-151" value="分&lt;div&gt;类&lt;/div&gt;&lt;div&gt;筛&lt;/div&gt;&lt;div&gt;选&lt;/div&gt;&lt;div&gt;物&lt;/div&gt;&lt;div&gt;资&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1404" y="3270" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-152" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-153">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1468.17" y="3270" as="sourcePoint" />
-            <mxPoint x="1468.17" y="3240" as="targetPoint" />
+            <mxPoint x="1456.17" y="3270" as="sourcePoint" />
+            <mxPoint x="1456.17" y="3240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-153" value="编&lt;div&gt;辑&lt;/div&gt;&lt;div&gt;库&lt;/div&gt;&lt;div&gt;存&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1453" y="3270" width="30" height="80" as="geometry" />
+          <mxGeometry x="1441" y="3270" width="30" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
