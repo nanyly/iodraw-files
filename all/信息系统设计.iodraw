@@ -960,7 +960,7 @@
             <mxPoint x="1531.17" y="3240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OpLHQuc6GiIbfkLoHCsy-159" value="库&lt;div&gt;存&lt;/div&gt;&lt;div&gt;状&lt;/div&gt;&lt;div&gt;态&lt;/div&gt;&lt;div&gt;筛&lt;/div&gt;&lt;div&gt;选&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-159" value="扫&lt;div&gt;码&lt;/div&gt;&lt;div&gt;录&lt;/div&gt;&lt;div&gt;入&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1516" y="3270" width="30" height="90" as="geometry" />
         </mxCell>
       </root>
