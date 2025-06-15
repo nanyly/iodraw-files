@@ -528,7 +528,7 @@
             <mxPoint x="900" y="2640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OpLHQuc6GiIbfkLoHCsy-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-19" target="OpLHQuc6GiIbfkLoHCsy-1">
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="OpLHQuc6GiIbfkLoHCsy-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1140" y="2640" as="sourcePoint" />
             <mxPoint x="980" y="2760" as="targetPoint" />
@@ -567,14 +567,8 @@
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-18" value="退&lt;div&gt;赛&lt;/div&gt;&lt;div&gt;申&lt;/div&gt;&lt;div&gt;请&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="912" y="2740" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OpLHQuc6GiIbfkLoHCsy-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="OpLHQuc6GiIbfkLoHCsy-19">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1140" y="2640" as="sourcePoint" />
-            <mxPoint x="1140" y="2617" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1114.5" y="2590" width="50" height="100" as="geometry" />
+          <mxGeometry x="1070" y="2780" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
