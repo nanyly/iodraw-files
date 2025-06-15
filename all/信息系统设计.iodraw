@@ -870,6 +870,15 @@
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-128" value="区&lt;div&gt;域&lt;/div&gt;&lt;div&gt;赛&lt;/div&gt;&lt;div&gt;选&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1662" y="2750" width="30" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-131" value="赛事管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1357" y="2673" width="108" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-132" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="OpLHQuc6GiIbfkLoHCsy-131">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1411" y="2730" as="sourcePoint" />
+            <mxPoint x="1392.17" y="2704" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
