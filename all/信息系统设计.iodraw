@@ -567,6 +567,9 @@
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-18" value="退&lt;div&gt;赛&lt;/div&gt;&lt;div&gt;申&lt;/div&gt;&lt;div&gt;请&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="912" y="2740" width="30" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="2780" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
