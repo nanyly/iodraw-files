@@ -352,7 +352,7 @@
           <mxGeometry x="620" y="2480" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-99" value="物资部" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="839" y="2537" width="30" height="60" as="geometry" />
+          <mxGeometry x="615" y="2799" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-100" value="财务部" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="615" y="2630" width="30" height="60" as="geometry" />
@@ -424,12 +424,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-18" value="登记领取信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="668" y="2537" width="99" height="40" as="geometry" />
+          <mxGeometry x="434" y="2799" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="EOuvVJ0Llqo85WcCsKMf-30" target="KLZFWvPaAveQ6kD436Bz-99" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="2845" as="sourcePoint" />
-            <mxPoint x="510" y="2655" as="targetPoint" />
+            <mxPoint x="366" y="3107" as="sourcePoint" />
+            <mxPoint x="276" y="2917" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-21" value="查看赛事信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -442,7 +442,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-25" value="查询物资库存" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="668" y="2480" width="99" height="40" as="geometry" />
+          <mxGeometry x="434" y="2742" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-29" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EOuvVJ0Llqo85WcCsKMf-2" target="KLZFWvPaAveQ6kD436Bz-100" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -451,12 +451,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-30" value="补充物资进库" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="668" y="2590" width="99" height="40" as="geometry" />
+          <mxGeometry x="434" y="2852" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="EOuvVJ0Llqo85WcCsKMf-25" target="KLZFWvPaAveQ6kD436Bz-99" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="2725" as="sourcePoint" />
-            <mxPoint x="210" y="2745" as="targetPoint" />
+            <mxPoint x="356" y="2987" as="sourcePoint" />
+            <mxPoint x="-24" y="3007" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-32" value="查询赛事" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -503,8 +503,8 @@
         </mxCell>
         <mxCell id="fAG9YhZRCLTaCMR5JaCY-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EOuvVJ0Llqo85WcCsKMf-18" target="KLZFWvPaAveQ6kD436Bz-99" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="2925" as="sourcePoint" />
-            <mxPoint x="660" y="2875" as="targetPoint" />
+            <mxPoint x="376" y="3187" as="sourcePoint" />
+            <mxPoint x="426" y="3137" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-1" value="马拉松报名系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
