@@ -882,10 +882,10 @@
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-134" value="荣&lt;div&gt;誉&lt;/div&gt;&lt;div&gt;展&lt;/div&gt;&lt;div&gt;示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="836" y="3277" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OpLHQuc6GiIbfkLoHCsy-135" value="赛&lt;div&gt;事&lt;/div&gt;&lt;div&gt;查&lt;/div&gt;&lt;div&gt;询&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-135" value="登&lt;div&gt;录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="886" y="3277" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OpLHQuc6GiIbfkLoHCsy-136" value="退&lt;div&gt;赛&lt;/div&gt;&lt;div&gt;申&lt;/div&gt;&lt;div&gt;请&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-136" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="935" y="3277" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-137" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-135">
