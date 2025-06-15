@@ -831,7 +831,7 @@
             <mxPoint x="1531" y="2720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OpLHQuc6GiIbfkLoHCsy-120" value="查&lt;div&gt;看&lt;/div&gt;&lt;div&gt;赛&lt;/div&gt;&lt;div&gt;事&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-120" value="关&lt;div&gt;注&lt;br&gt;&lt;div&gt;赛&lt;/div&gt;&lt;div&gt;事&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1516" y="2750" width="30" height="80" as="geometry" />
         </mxCell>
       </root>
