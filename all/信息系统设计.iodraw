@@ -844,31 +844,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-123" value="发&lt;div&gt;布&lt;/div&gt;&lt;div&gt;赛&lt;/div&gt;&lt;div&gt;事&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1426" y="2760" width="30" height="80" as="geometry" />
+          <mxGeometry x="1560" y="2760" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-124" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1441.17" y="2760" as="sourcePoint" />
-            <mxPoint x="1441.17" y="2730" as="targetPoint" />
+            <mxPoint x="1575.17" y="2760" as="sourcePoint" />
+            <mxPoint x="1575.17" y="2730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-125" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-126">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1491" y="2760" as="sourcePoint" />
-            <mxPoint x="1491" y="2730" as="targetPoint" />
+            <mxPoint x="1625" y="2760" as="sourcePoint" />
+            <mxPoint x="1625" y="2730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-126" value="查&lt;div&gt;看&lt;/div&gt;&lt;div&gt;赛&lt;/div&gt;&lt;div&gt;事&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1476" y="2760" width="30" height="80" as="geometry" />
+          <mxGeometry x="1610" y="2760" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-127" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-128">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1541" y="2760" as="sourcePoint" />
-            <mxPoint x="1541" y="2730" as="targetPoint" />
+            <mxPoint x="1675" y="2760" as="sourcePoint" />
+            <mxPoint x="1675" y="2730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-128" value="关&lt;div&gt;注&lt;br&gt;&lt;div&gt;赛&lt;/div&gt;&lt;div&gt;事&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1526" y="2760" width="30" height="80" as="geometry" />
+          <mxGeometry x="1660" y="2760" width="30" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
