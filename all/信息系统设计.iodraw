@@ -915,7 +915,7 @@
             <mxPoint x="1539.17" y="3247" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OpLHQuc6GiIbfkLoHCsy-149" value="补&lt;div&gt;充&lt;/div&gt;&lt;div&gt;物&lt;/div&gt;&lt;div&gt;资&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-149" value="编&lt;div&gt;辑&lt;/div&gt;&lt;div&gt;库&lt;/div&gt;&lt;div&gt;存&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1524" y="3277" width="30" height="80" as="geometry" />
         </mxCell>
       </root>
