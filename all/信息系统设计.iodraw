@@ -843,7 +843,7 @@
             <mxPoint x="750" y="2720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OpLHQuc6GiIbfkLoHCsy-123" value="赛事" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-123" value="搜&lt;div&gt;索&lt;/div&gt;&lt;div&gt;赛&lt;/div&gt;&lt;div&gt;事&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1562" y="2750" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-124" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
