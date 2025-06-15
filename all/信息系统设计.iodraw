@@ -880,15 +880,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-134" value="注&lt;div&gt;册&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="836" y="3277" width="30" height="80" as="geometry" />
+          <mxGeometry x="858" y="3277" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-136" value="荣&lt;div&gt;誉&lt;/div&gt;&lt;div&gt;展&lt;/div&gt;&lt;div&gt;示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="935" y="3277" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-138" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-134">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1001" y="3337" as="sourcePoint" />
-            <mxPoint x="851" y="3247" as="targetPoint" />
+            <mxPoint x="1023" y="3337" as="sourcePoint" />
+            <mxPoint x="873" y="3247" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-139" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
