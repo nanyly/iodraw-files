@@ -789,9 +789,6 @@
             <mxPoint x="196" y="2848" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OpLHQuc6GiIbfkLoHCsy-102" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgZGF0YS1zcG0tYW5jaG9yLWlkPSJhMzEzeC5zZWFyY2hfaW5kZXguMC5pNy4yOWY5M2E4MWVVbnVrMCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBjbGFzcz0iaWNvbiI+PHBhdGggZmlsbD0iIzJjMmMyYyIgZD0iTTkwMS4xMiA1MDEuNzZsLTI3Ni40OC0xMzguMjRjLTUuMTItNS4xMi0xNS4zNiAwLTE1LjM2IDEwLjI0djExMi42NEgxMjhjLTE1LjM2IDAtMjUuNiAxMC4yNC0yNS42IDI1LjZzMTAuMjQgMjUuNiAyNS42IDI1LjZINjE0LjR2MTEyLjY0YzAgNS4xMiAxMC4yNCAxMC4yNCAxNS4zNiAxMC4yNGwyNzYuNDgtMTM4LjI0YzUuMTItNS4xMiA1LjEyLTE1LjM2LTUuMTItMjAuNDh6TTY2NS42IDU4My42OFY0NDAuMzJsMTQzLjM2IDcxLjY4LTE0My4zNiA3MS42OHoiLz48L3N2Zz4=" vertex="1" parent="1">
-          <mxGeometry x="143" y="2633" width="200" height="200" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
