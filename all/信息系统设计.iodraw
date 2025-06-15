@@ -816,7 +816,7 @@
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-109" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="OpLHQuc6GiIbfkLoHCsy-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OpLHQuc6GiIbfkLoHCsy-112" value="报&lt;div&gt;名&lt;/div&gt;&lt;div&gt;申&lt;/div&gt;&lt;div&gt;请&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-112" value="报名状态查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="781" y="2750" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-113" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-112">
