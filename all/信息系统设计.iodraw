@@ -508,7 +508,7 @@
           <mxGeometry x="1278" y="3100" width="191" height="37" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-4" value="报名管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1053" y="3183" width="108" height="31" as="geometry" />
+          <mxGeometry x="1052" y="3183" width="108" height="31" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-5" value="财务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1225" y="3183" width="108" height="31" as="geometry" />
@@ -533,8 +533,8 @@
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OpLHQuc6GiIbfkLoHCsy-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1107" y="3160" as="sourcePoint" />
-            <mxPoint x="1437" y="3070" as="targetPoint" />
+            <mxPoint x="1106" y="3160" as="sourcePoint" />
+            <mxPoint x="1436" y="3070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OpLHQuc6GiIbfkLoHCsy-7">
@@ -584,8 +584,8 @@
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="OpLHQuc6GiIbfkLoHCsy-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1107" y="3240" as="sourcePoint" />
-            <mxPoint x="1294" y="3270" as="targetPoint" />
+            <mxPoint x="1106" y="3240" as="sourcePoint" />
+            <mxPoint x="1293" y="3270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-18">
