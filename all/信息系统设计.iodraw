@@ -573,12 +573,6 @@
             <mxPoint x="900" y="2720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OpLHQuc6GiIbfkLoHCsy-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-4" target="OpLHQuc6GiIbfkLoHCsy-19">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900" y="2694" as="sourcePoint" />
-            <mxPoint x="900" y="2720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="931" y="2690" width="39" height="100" as="geometry" />
         </mxCell>
