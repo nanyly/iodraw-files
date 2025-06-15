@@ -346,7 +346,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-73" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="123" y="2575" width="30" height="60" as="geometry" />
+          <mxGeometry x="101" y="2617" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-98" value="组委会" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="2480" width="30" height="60" as="geometry" />
