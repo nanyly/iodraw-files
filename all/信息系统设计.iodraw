@@ -854,21 +854,21 @@
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-125" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-126">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1803" y="3270" as="sourcePoint" />
-            <mxPoint x="1803" y="3240" as="targetPoint" />
+            <mxPoint x="1790" y="3270" as="sourcePoint" />
+            <mxPoint x="1790" y="3240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-126" value="赛&lt;div&gt;况&lt;/div&gt;&lt;div&gt;筛&lt;/div&gt;&lt;div&gt;选&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1788" y="3270" width="30" height="80" as="geometry" />
+          <mxGeometry x="1775" y="3270" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-127" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-128">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1853" y="3270" as="sourcePoint" />
-            <mxPoint x="1853" y="3240" as="targetPoint" />
+            <mxPoint x="1840" y="3270" as="sourcePoint" />
+            <mxPoint x="1840" y="3240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-128" value="区&lt;div&gt;域&lt;/div&gt;&lt;div&gt;赛&lt;/div&gt;&lt;div&gt;选&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1838" y="3270" width="30" height="80" as="geometry" />
+          <mxGeometry x="1825" y="3270" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-131" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="846" y="3183" width="108" height="31" as="geometry" />
