@@ -756,15 +756,10 @@
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-77" value="马拉松报名系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="519" y="2338" width="87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OpLHQuc6GiIbfkLoHCsy-80" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="130" y="2700" as="sourcePoint" />
-            <mxPoint x="290" y="2700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OpLHQuc6GiIbfkLoHCsy-81" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OpLHQuc6GiIbfkLoHCsy-80">
-          <mxGeometry x="0.8563" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-82" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="2690" as="sourcePoint" />
+            <mxPoint x="170" y="2690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
