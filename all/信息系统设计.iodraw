@@ -911,12 +911,12 @@
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-148" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-149">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1383.17" y="3270" as="sourcePoint" />
-            <mxPoint x="1383.17" y="3240" as="targetPoint" />
+            <mxPoint x="1382.17" y="3270" as="sourcePoint" />
+            <mxPoint x="1382.17" y="3240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-149" value="编&lt;div&gt;辑&lt;/div&gt;&lt;div&gt;库&lt;/div&gt;&lt;div&gt;存&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1368" y="3270" width="30" height="80" as="geometry" />
+          <mxGeometry x="1367" y="3270" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-150" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-151">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
