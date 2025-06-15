@@ -562,7 +562,7 @@
           <mxGeometry x="1073" y="3270" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-18" value="退&lt;div&gt;赛&lt;/div&gt;&lt;div&gt;申&lt;/div&gt;&lt;div&gt;请&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1168" y="3270" width="30" height="80" as="geometry" />
+          <mxGeometry x="1111" y="3270" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-26" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -578,8 +578,8 @@
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="985" y="3240" as="sourcePoint" />
-            <mxPoint x="1184" y="3240" as="targetPoint" />
+            <mxPoint x="975" y="3240" as="sourcePoint" />
+            <mxPoint x="1174" y="3240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="OpLHQuc6GiIbfkLoHCsy-4">
@@ -590,8 +590,8 @@
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OpLHQuc6GiIbfkLoHCsy-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1413" y="3180" as="sourcePoint" />
-            <mxPoint x="1183" y="3240" as="targetPoint" />
+            <mxPoint x="1356" y="3180" as="sourcePoint" />
+            <mxPoint x="1126" y="3240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
