@@ -789,13 +789,13 @@
             <mxPoint x="196" y="2848" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OpLHQuc6GiIbfkLoHCsy-103" value="GeneralizationSet1" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;" edge="1" parent="1">
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-103" value="" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" y="3111" as="sourcePoint" />
             <mxPoint x="161" y="3111" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OpLHQuc6GiIbfkLoHCsy-104" value=":powertype {constraint1}" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="OpLHQuc6GiIbfkLoHCsy-103">
+        <mxCell id="OpLHQuc6GiIbfkLoHCsy-104" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="OpLHQuc6GiIbfkLoHCsy-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
