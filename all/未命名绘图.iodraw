@@ -361,13 +361,13 @@
           <mxGeometry x="-70" y="2344" width="512" height="679" as="geometry" />
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-104" value="提交报名申请" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-27" y="2558" width="99" height="40" as="geometry" />
+          <mxGeometry x="-66" y="2679" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-106" value="查看赛事信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="99" y="2460" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-1" value="缴纳报名费" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-49" y="2686" width="99" height="40" as="geometry" />
+          <mxGeometry x="-58" y="2750" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-2" value="退还报名费" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="226" y="2799" width="99" height="40" as="geometry" />
