@@ -1077,6 +1077,12 @@
         <mxCell id="p6kC0pbM_tcmNSBEyvow-45" value="报名查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-65" y="2834" width="99" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="p6kC0pbM_tcmNSBEyvow-46" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-293" y="2739" as="sourcePoint" />
+            <mxPoint x="-223" y="2818" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
