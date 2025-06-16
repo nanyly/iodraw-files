@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-108" value="马拉松报名系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-391" y="2471" width="87" height="30" as="geometry" />
+          <mxGeometry x="-452" y="2469" width="87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-109" value="" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hxRXalsVN6NtBNWkaDPZ-84" target="hxRXalsVN6NtBNWkaDPZ-113">
           <mxGeometry relative="1" as="geometry">
@@ -137,7 +137,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-113" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="143" y="2506" width="30" height="60" as="geometry" />
+          <mxGeometry y="2469" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-114" value="" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hxRXalsVN6NtBNWkaDPZ-83" target="hxRXalsVN6NtBNWkaDPZ-113">
           <mxGeometry relative="1" as="geometry">
