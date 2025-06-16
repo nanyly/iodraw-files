@@ -1029,6 +1029,18 @@
             <mxPoint x="-195" y="2761" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="p6kC0pbM_tcmNSBEyvow-21" value="查询物资库存" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="226" y="2885" width="99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p6kC0pbM_tcmNSBEyvow-22" value="查询物资库存" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="2895" width="99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p6kC0pbM_tcmNSBEyvow-23" value="查询物资库存" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="246" y="2905" width="99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p6kC0pbM_tcmNSBEyvow-24" value="查询物资库存" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="93" y="2851" width="99" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
