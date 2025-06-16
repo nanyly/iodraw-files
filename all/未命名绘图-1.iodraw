@@ -38,7 +38,7 @@
           <mxGeometry x="-272" y="2948" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-92" value="提交退赛申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="2831" width="99" height="40" as="geometry" />
+          <mxGeometry x="-518" y="2738" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-93" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hxRXalsVN6NtBNWkaDPZ-81" target="hxRXalsVN6NtBNWkaDPZ-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -296,7 +296,7 @@
           <mxGeometry x="-477" y="2927" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-148" value="查看关注的赛事" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-512" y="2770" width="99" height="40" as="geometry" />
+          <mxGeometry x="-526" y="2808" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-149" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hxRXalsVN6NtBNWkaDPZ-145" target="hxRXalsVN6NtBNWkaDPZ-146">
           <mxGeometry width="160" relative="1" as="geometry">
