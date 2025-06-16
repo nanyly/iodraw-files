@@ -8,7 +8,7 @@
           <mxGeometry x="-805" y="2696" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-82" value="组委会" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="7" y="2576" width="30" height="60" as="geometry" />
+          <mxGeometry x="-41" y="2570" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-83" value="物资部" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-13" y="3055" width="30" height="60" as="geometry" />
@@ -296,7 +296,7 @@
           <mxGeometry x="-477" y="2927" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-148" value="查看关注的赛事" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-516" y="2772" width="99" height="40" as="geometry" />
+          <mxGeometry x="-533" y="2746" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-149" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hxRXalsVN6NtBNWkaDPZ-145" target="hxRXalsVN6NtBNWkaDPZ-146">
           <mxGeometry width="160" relative="1" as="geometry">
