@@ -17,7 +17,7 @@
           <mxGeometry x="-73" y="2771" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-723" y="2466" width="625" height="781" as="geometry" />
+          <mxGeometry x="-717" y="2466" width="619" height="781" as="geometry" />
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-86" value="提交报名申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-705" y="3152" width="99" height="40" as="geometry" />
@@ -287,7 +287,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-145" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-705" y="2948" width="99" height="40" as="geometry" />
+          <mxGeometry x="-705" y="2955" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-146" value="查看我的荣誉" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-532" y="2855" width="99" height="40" as="geometry" />
