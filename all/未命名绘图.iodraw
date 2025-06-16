@@ -490,7 +490,7 @@
           <mxGeometry y="2842" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAG9YhZRCLTaCMR5JaCY-7" value="查看报名记录" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4" y="2922" width="99" height="40" as="geometry" />
+          <mxGeometry x="-56" y="2983" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAG9YhZRCLTaCMR5JaCY-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KLZFWvPaAveQ6kD436Bz-73" target="fAG9YhZRCLTaCMR5JaCY-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -778,7 +778,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-94" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="138" y="2705" width="82" height="26" as="geometry" />
+          <mxGeometry x="118" y="2782" width="82" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OpLHQuc6GiIbfkLoHCsy-99" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EOuvVJ0Llqo85WcCsKMf-1" target="EOuvVJ0Llqo85WcCsKMf-7" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
