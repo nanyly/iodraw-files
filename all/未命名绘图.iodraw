@@ -376,7 +376,7 @@
           <mxGeometry x="283" y="2464" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-7" value="录入支付凭证" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="185" y="2848" width="99" height="40" as="geometry" />
+          <mxGeometry x="248" y="2844" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-8" value="提交退赛申请" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="2727" width="99" height="40" as="geometry" />
