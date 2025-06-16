@@ -433,7 +433,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-32" value="搜索赛事" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-84" y="2552" width="99" height="40" as="geometry" />
+          <mxGeometry x="-166" y="2661" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-33" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KLZFWvPaAveQ6kD436Bz-73" target="EOuvVJ0Llqo85WcCsKMf-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1033,7 +1033,7 @@
           <mxGeometry x="43" y="2823" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-37" value="查看关注的赛事" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3" y="2625" width="99" height="40" as="geometry" />
+          <mxGeometry x="24" y="2652" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-38" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p6kC0pbM_tcmNSBEyvow-32" target="p6kC0pbM_tcmNSBEyvow-33">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -1081,7 +1081,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-47" value="关注赛事" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-147" y="2599" width="99" height="40" as="geometry" />
+          <mxGeometry x="-169" y="2729" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-49" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLZFWvPaAveQ6kD436Bz-73" target="p6kC0pbM_tcmNSBEyvow-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
