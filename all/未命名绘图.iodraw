@@ -379,7 +379,7 @@
           <mxGeometry x="136.5" y="2805" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-8" value="提交退赛申请" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-61" y="2622" width="99" height="40" as="geometry" />
+          <mxGeometry x="41" y="2646" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KLZFWvPaAveQ6kD436Bz-73" target="KLZFWvPaAveQ6kD436Bz-106" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -487,10 +487,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fAG9YhZRCLTaCMR5JaCY-4" value="查看关注的赛事" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-283" y="3110" width="99" height="40" as="geometry" />
+          <mxGeometry x="-227" y="3063" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAG9YhZRCLTaCMR5JaCY-7" value="查看报名记录" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="2965" width="99" height="40" as="geometry" />
+          <mxGeometry x="-49" y="2845" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAG9YhZRCLTaCMR5JaCY-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KLZFWvPaAveQ6kD436Bz-73" target="fAG9YhZRCLTaCMR5JaCY-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
