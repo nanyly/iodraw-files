@@ -1074,6 +1074,9 @@
             <mxPoint x="30" y="3261" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="p6kC0pbM_tcmNSBEyvow-32" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-52" y="2712" width="99" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
