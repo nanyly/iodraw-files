@@ -370,7 +370,7 @@
           <mxGeometry x="-73" y="2945" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-2" value="退还报名费" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="145" y="2703" width="99" height="40" as="geometry" />
+          <mxGeometry x="172" y="2746" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-3" value="发布赛事信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="261" y="2432" width="99" height="40" as="geometry" />
@@ -895,7 +895,7 @@
           <mxGeometry x="162" y="2487" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-3" value="退赛审核通过" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="218" y="2644" width="99" height="40" as="geometry" />
+          <mxGeometry x="275" y="2694" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-4" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-35" y="2400" width="99" height="40" as="geometry" />
@@ -916,7 +916,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-8" value="审核退赛申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="326" y="2596" width="99" height="40" as="geometry" />
+          <mxGeometry x="341" y="2612" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-9" value="报名审核驳回" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="73" y="2535" width="99" height="40" as="geometry" />
@@ -1024,7 +1024,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-32" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-176" y="2690" width="99" height="40" as="geometry" />
+          <mxGeometry x="-183" y="2851" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-33" value="查看我的荣誉" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-31" y="2730" width="99" height="40" as="geometry" />
