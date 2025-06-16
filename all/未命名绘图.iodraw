@@ -1030,10 +1030,10 @@
           <mxGeometry x="-22" y="2666" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-35" value="查看报名记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="2721" width="99" height="40" as="geometry" />
+          <mxGeometry x="-51" y="2789" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-37" value="查看关注的赛事" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-46" y="2790" width="99" height="40" as="geometry" />
+          <mxGeometry x="15" y="2567" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-38" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p6kC0pbM_tcmNSBEyvow-32" target="p6kC0pbM_tcmNSBEyvow-33">
           <mxGeometry width="160" relative="1" as="geometry">
