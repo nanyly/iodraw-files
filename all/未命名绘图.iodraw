@@ -367,7 +367,7 @@
           <mxGeometry x="57" y="2459" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-1" value="缴纳报名费" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-71" y="3017" width="99" height="40" as="geometry" />
+          <mxGeometry x="-73" y="2945" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-2" value="退还报名费" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="145" y="2703" width="99" height="40" as="geometry" />
@@ -424,7 +424,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-30" value="补充物资进库" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="337" y="3057" width="99" height="40" as="geometry" />
+          <mxGeometry x="350" y="3095" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="EOuvVJ0Llqo85WcCsKMf-25" target="KLZFWvPaAveQ6kD436Bz-99" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -936,7 +936,7 @@
             <mxPoint x="-136" y="2860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p6kC0pbM_tcmNSBEyvow-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLZFWvPaAveQ6kD436Bz-104" target="EOuvVJ0Llqo85WcCsKMf-1">
+        <mxCell id="p6kC0pbM_tcmNSBEyvow-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLZFWvPaAveQ6kD436Bz-104" target="EOuvVJ0Llqo85WcCsKMf-1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-274" y="2849" as="sourcePoint" />
             <mxPoint x="-114" y="2849" as="targetPoint" />
@@ -1015,7 +1015,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-30" value="扫码录入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="162" y="3057" width="99" height="40" as="geometry" />
+          <mxGeometry x="159" y="3095" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-31" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EOuvVJ0Llqo85WcCsKMf-30" target="p6kC0pbM_tcmNSBEyvow-30">
           <mxGeometry width="160" relative="1" as="geometry">
