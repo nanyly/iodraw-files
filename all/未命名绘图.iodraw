@@ -358,7 +358,7 @@
           <mxGeometry x="406" y="2626" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-103" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-6" y="2365" width="364" height="534" as="geometry" />
+          <mxGeometry x="-6" y="2365" width="379" height="679" as="geometry" />
         </mxCell>
         <mxCell id="KLZFWvPaAveQ6kD436Bz-104" value="提交报名申请" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="27" y="2533" width="99" height="40" as="geometry" />
@@ -424,7 +424,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-18" value="登记领取信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="216" y="2798" width="99" height="40" as="geometry" />
+          <mxGeometry x="241" y="2922" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="EOuvVJ0Llqo85WcCsKMf-30" target="KLZFWvPaAveQ6kD436Bz-99" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -439,7 +439,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-25" value="查询物资库存" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="216" y="2746" width="99" height="40" as="geometry" />
+          <mxGeometry x="241" y="2870" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-29" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EOuvVJ0Llqo85WcCsKMf-2" target="KLZFWvPaAveQ6kD436Bz-100" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -448,7 +448,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-30" value="补充物资进库" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="216" y="2850" width="99" height="40" as="geometry" />
+          <mxGeometry x="241" y="2974" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="EOuvVJ0Llqo85WcCsKMf-25" target="KLZFWvPaAveQ6kD436Bz-99" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
