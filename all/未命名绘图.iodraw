@@ -490,7 +490,7 @@
           <mxGeometry x="-227" y="3063" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAG9YhZRCLTaCMR5JaCY-7" value="查看报名记录" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-183" y="2875" width="99" height="40" as="geometry" />
+          <mxGeometry x="-296" y="2740" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fAG9YhZRCLTaCMR5JaCY-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KLZFWvPaAveQ6kD436Bz-73" target="fAG9YhZRCLTaCMR5JaCY-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1078,7 +1078,16 @@
           <mxGeometry x="-116" y="2676" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-33" value="查看我的荣誉" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="2754" width="99" height="40" as="geometry" />
+          <mxGeometry x="-17" y="2697" width="99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p6kC0pbM_tcmNSBEyvow-35" value="查看报名记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="2750" width="99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p6kC0pbM_tcmNSBEyvow-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="p6kC0pbM_tcmNSBEyvow-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-166" y="2646" as="sourcePoint" />
+            <mxPoint x="11" y="2791" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
