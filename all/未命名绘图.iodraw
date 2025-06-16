@@ -910,10 +910,10 @@
           <mxGeometry x="201" y="2645" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-4" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-157" y="2459" width="99" height="40" as="geometry" />
+          <mxGeometry x="-166" y="2443" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-5" value="注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-125" y="2362" width="99" height="40" as="geometry" />
+          <mxGeometry x="-178" y="2367" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-6" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.926;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EOuvVJ0Llqo85WcCsKMf-2" target="EOuvVJ0Llqo85WcCsKMf-8">
           <mxGeometry width="160" relative="1" as="geometry">
