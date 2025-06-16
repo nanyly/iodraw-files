@@ -370,13 +370,13 @@
           <mxGeometry x="-58" y="2750" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-2" value="退还报名费" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="248" y="2705" width="99" height="40" as="geometry" />
+          <mxGeometry x="149" y="2725" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-3" value="发布赛事信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="261" y="2432" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-7" value="录入支付凭证" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="149" y="2851" width="99" height="40" as="geometry" />
+          <mxGeometry x="136.5" y="2805" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-8" value="提交退赛申请" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-42" y="2563" width="99" height="40" as="geometry" />
@@ -466,7 +466,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-34" value="审核报名申请" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="272" y="2520" width="99" height="40" as="geometry" />
+          <mxGeometry x="326" y="2518" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EOuvVJ0Llqo85WcCsKMf-35" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="KLZFWvPaAveQ6kD436Bz-98" target="EOuvVJ0Llqo85WcCsKMf-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -967,7 +967,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-8" value="审核退赛申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="254.5" y="2580" width="99" height="40" as="geometry" />
+          <mxGeometry x="326" y="2596" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6kC0pbM_tcmNSBEyvow-9" value="报名审核驳回" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="62" y="2527" width="99" height="40" as="geometry" />
