@@ -8,10 +8,10 @@
           <mxGeometry x="-805" y="2696" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-82" value="组委会" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-41" y="2570" width="30" height="60" as="geometry" />
+          <mxGeometry x="-71" y="2586" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-83" value="物资部" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-13" y="3055" width="30" height="60" as="geometry" />
+          <mxGeometry x="-67" y="3075" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-84" value="财务部" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-71" y="2778" width="30" height="60" as="geometry" />
