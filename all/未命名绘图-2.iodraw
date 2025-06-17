@@ -470,7 +470,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1sUSOpf7YLyk1dcFLSIq-73" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-809" y="4137" width="30" height="60" as="geometry" />
+          <mxGeometry x="-810" y="4168" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1sUSOpf7YLyk1dcFLSIq-74" value="提交报名申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-715" y="4338" width="99" height="40" as="geometry" />
@@ -482,7 +482,7 @@
           <mxGeometry x="-413" y="4391" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1sUSOpf7YLyk1dcFLSIq-77" value="提交退赛申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="4074" width="99" height="40" as="geometry" />
+          <mxGeometry x="-463" y="4081" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1sUSOpf7YLyk1dcFLSIq-78" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1sUSOpf7YLyk1dcFLSIq-73" target="1sUSOpf7YLyk1dcFLSIq-75">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -539,13 +539,13 @@
           <mxGeometry x="-679" y="4260" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1sUSOpf7YLyk1dcFLSIq-89" value="查看我的荣誉" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="4205" width="99" height="40" as="geometry" />
+          <mxGeometry x="-442" y="4199" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1sUSOpf7YLyk1dcFLSIq-90" value="查看报名记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-424" y="4255" width="99" height="40" as="geometry" />
+          <mxGeometry x="-431" y="4255" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1sUSOpf7YLyk1dcFLSIq-91" value="查看关注的赛事" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="4142" width="99" height="40" as="geometry" />
+          <mxGeometry x="-451" y="4143" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1sUSOpf7YLyk1dcFLSIq-92" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1sUSOpf7YLyk1dcFLSIq-88" target="1sUSOpf7YLyk1dcFLSIq-89">
           <mxGeometry width="160" relative="1" as="geometry">
