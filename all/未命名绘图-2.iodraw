@@ -479,7 +479,7 @@
           <mxGeometry x="-701" y="4107" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1sUSOpf7YLyk1dcFLSIq-76" value="缴纳报名费" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="4391" width="99" height="40" as="geometry" />
+          <mxGeometry x="-451" y="4375" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1sUSOpf7YLyk1dcFLSIq-77" value="提交退赛申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-463" y="4081" width="99" height="40" as="geometry" />
@@ -572,7 +572,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1sUSOpf7YLyk1dcFLSIq-96" value="报名查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-431" y="4306" width="99" height="40" as="geometry" />
+          <mxGeometry x="-439" y="4319" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1sUSOpf7YLyk1dcFLSIq-97" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1sUSOpf7YLyk1dcFLSIq-88" target="1sUSOpf7YLyk1dcFLSIq-96">
           <mxGeometry width="160" relative="1" as="geometry">
