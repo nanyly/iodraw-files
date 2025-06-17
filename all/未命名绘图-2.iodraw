@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1sUSOpf7YLyk1dcFLSIq-100" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-802.5" y="3256" width="564" height="271.5" as="geometry" />
+        </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-81" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-819" y="2689" width="30" height="60" as="geometry" />
         </mxCell>
@@ -588,9 +591,6 @@
             <mxPoint x="-795" y="4167" as="sourcePoint" />
             <mxPoint x="-624" y="4127" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="1sUSOpf7YLyk1dcFLSIq-100" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-789" y="3250.5" width="564" height="271.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
