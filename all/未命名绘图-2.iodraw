@@ -175,12 +175,6 @@
             <mxPoint x="-344" y="2694" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hxRXalsVN6NtBNWkaDPZ-131" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.591;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hxRXalsVN6NtBNWkaDPZ-118" target="hxRXalsVN6NtBNWkaDPZ-89" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-845" y="2923" as="sourcePoint" />
-            <mxPoint x="-685" y="2923" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hxRXalsVN6NtBNWkaDPZ-132" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hxRXalsVN6NtBNWkaDPZ-123" target="hxRXalsVN6NtBNWkaDPZ-82" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-809" y="2963" as="sourcePoint" />
@@ -349,7 +343,7 @@
         <mxCell id="1sUSOpf7YLyk1dcFLSIq-45" value="查询物资库存" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-391" y="3277" width="99" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1sUSOpf7YLyk1dcFLSIq-46" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="1sUSOpf7YLyk1dcFLSIq-45">
+        <mxCell id="1sUSOpf7YLyk1dcFLSIq-46" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1sUSOpf7YLyk1dcFLSIq-38" target="1sUSOpf7YLyk1dcFLSIq-45">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-509" y="3276" as="sourcePoint" />
             <mxPoint x="-711" y="3349" as="targetPoint" />
@@ -367,7 +361,7 @@
             <mxPoint x="-755" y="3389" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1sUSOpf7YLyk1dcFLSIq-49" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1sUSOpf7YLyk1dcFLSIq-38" target="1sUSOpf7YLyk1dcFLSIq-42">
+        <mxCell id="1sUSOpf7YLyk1dcFLSIq-49" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1sUSOpf7YLyk1dcFLSIq-38" target="1sUSOpf7YLyk1dcFLSIq-42">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-913" y="3402" as="sourcePoint" />
             <mxPoint x="-753" y="3402" as="targetPoint" />
