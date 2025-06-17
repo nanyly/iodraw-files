@@ -592,6 +592,9 @@
             <mxPoint x="-624" y="4127" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1sUSOpf7YLyk1dcFLSIq-101" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;马拉松报名系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-507" y="2487" width="113" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
