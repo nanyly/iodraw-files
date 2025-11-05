@@ -137,7 +137,7 @@
           <mxGeometry x="414" y="430" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-36" value="操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="350" width="50" height="50" as="geometry" />
+          <mxGeometry x="440" y="465" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-37" value="操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="406" y="450" width="50" height="50" as="geometry" />
@@ -153,6 +153,9 @@
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-41" value="操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="510" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-44" value="用户/家政员/管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="340" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
