@@ -40,7 +40,7 @@
         <mxCell id="7BQNaI0xOycjIIAOOKjN-12" value="简介" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="280" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="7BQNaI0xOycjIIAOOKjN-1">
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BQNaI0xOycjIIAOOKjN-3" target="7BQNaI0xOycjIIAOOKjN-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-20" y="590" as="sourcePoint" />
             <mxPoint x="30" y="540" as="targetPoint" />
