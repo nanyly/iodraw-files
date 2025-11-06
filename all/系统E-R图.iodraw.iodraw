@@ -571,7 +571,7 @@
             <mxPoint x="326" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-186" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BQNaI0xOycjIIAOOKjN-202" target="7BQNaI0xOycjIIAOOKjN-201">
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-186" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BQNaI0xOycjIIAOOKjN-202" target="7BQNaI0xOycjIIAOOKjN-201">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="276" y="410" as="sourcePoint" />
             <mxPoint x="326" y="360" as="targetPoint" />
@@ -614,7 +614,7 @@
           <mxGeometry x="-390.5" y="390" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-199" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-394" y="290" width="86" height="40" as="geometry" />
+          <mxGeometry x="-390.5" y="260" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-200" value="服务项目ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-294" y="240" width="86" height="40" as="geometry" />
