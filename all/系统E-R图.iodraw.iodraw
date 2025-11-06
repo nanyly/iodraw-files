@@ -329,10 +329,10 @@
           <mxGeometry x="-130" y="835" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-102" value="成交时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="478" y="560" width="86" height="40" as="geometry" />
+          <mxGeometry x="486" y="585" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-103" value="下单时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="564" y="585" width="86" height="40" as="geometry" />
+          <mxGeometry x="557" y="620" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-105" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BQNaI0xOycjIIAOOKjN-64" target="7BQNaI0xOycjIIAOOKjN-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -532,7 +532,7 @@
             <mxPoint x="370" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-138" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="7BQNaI0xOycjIIAOOKjN-102">
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-138" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BQNaI0xOycjIIAOOKjN-64" target="7BQNaI0xOycjIIAOOKjN-102">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="640" as="sourcePoint" />
             <mxPoint x="370" y="590" as="targetPoint" />
