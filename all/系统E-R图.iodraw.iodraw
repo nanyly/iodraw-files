@@ -284,7 +284,7 @@
           <mxGeometry x="365" y="-50" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-83" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="120" width="86" height="40" as="geometry" />
+          <mxGeometry x="471" y="110" width="86" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
