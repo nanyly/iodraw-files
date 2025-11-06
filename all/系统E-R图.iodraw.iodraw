@@ -814,7 +814,7 @@
         <mxCell id="7BQNaI0xOycjIIAOOKjN-200" value="订单状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="795" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-201" value="订单状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-201" value="选购ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="240" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-202" value="服务项目选购" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
