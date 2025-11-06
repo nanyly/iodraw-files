@@ -137,7 +137,7 @@
           <mxGeometry x="689" y="420" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-38" value="操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="516" y="430" width="60" height="50" as="geometry" />
+          <mxGeometry x="516" y="390" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-39" value="选购" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-144" y="330" width="50" height="50" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry x="337" y="-10" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-51" value="用户角色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="150" width="86" height="40" as="geometry" />
+          <mxGeometry x="-6" y="180" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-52" value="地址属性名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="328" y="-70" width="86" height="40" as="geometry" />
