@@ -272,7 +272,7 @@
           <mxGeometry x="325" y="-90" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-79" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="-80" width="86" height="40" as="geometry" />
+          <mxGeometry x="720" y="350" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-80" value="订单ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="220" width="86" height="40" as="geometry" />
