@@ -823,6 +823,9 @@
         <mxCell id="7BQNaI0xOycjIIAOOKjN-204" value="选购" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-65" y="615" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-205" value="服务项目选购" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-232" y="340" width="70" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
