@@ -289,6 +289,15 @@
         <mxCell id="7BQNaI0xOycjIIAOOKjN-84" value="评价等级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="80" width="86" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-87" value="订单状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="715" width="86" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-88" value="订单状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="637" y="595" width="86" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-89" value="订单状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="647" y="605" width="86" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
