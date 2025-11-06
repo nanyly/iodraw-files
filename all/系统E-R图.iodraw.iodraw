@@ -736,8 +736,8 @@
             <mxPoint x="-550" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-247" value="家政员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-198" y="50" width="70" height="50" as="geometry" />
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-247" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="544" y="20" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
