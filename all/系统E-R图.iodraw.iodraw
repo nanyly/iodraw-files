@@ -793,6 +793,9 @@
         <mxCell id="7BQNaI0xOycjIIAOOKjN-190" value="产生" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="516" y="615" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-193" value="选购" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="330" width="50" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
