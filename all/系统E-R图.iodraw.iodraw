@@ -157,9 +157,6 @@
         <mxCell id="7BQNaI0xOycjIIAOOKjN-44" value="地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="181" y="-30" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-45" value="是否为默认地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347" y="-25" width="86" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-46" value="详细地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="328" y="60" width="86" height="40" as="geometry" />
         </mxCell>
@@ -214,10 +211,10 @@
             <mxPoint x="181" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-60" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BQNaI0xOycjIIAOOKjN-44" target="7BQNaI0xOycjIIAOOKjN-45">
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-60" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BQNaI0xOycjIIAOOKjN-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="131" y="90" as="sourcePoint" />
-            <mxPoint x="181" y="40" as="targetPoint" />
+            <mxPoint x="346.99999999999727" y="-5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-61" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BQNaI0xOycjIIAOOKjN-44" target="7BQNaI0xOycjIIAOOKjN-50">
@@ -825,6 +822,9 @@
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-205" value="图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-242" y="615" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-206" value="是否为默认地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="-25" width="86" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
