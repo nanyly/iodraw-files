@@ -17,7 +17,7 @@
           <mxGeometry x="78" y="130" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-5" value="年龄" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="495" width="86" height="40" as="geometry" />
+          <mxGeometry x="390" y="410" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-6" value="服务项目ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="859" y="535" width="86" height="40" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="689" y="420" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-38" value="操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="460" width="60" height="50" as="geometry" />
+          <mxGeometry x="390" y="480" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-39" value="选购" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-144" y="330" width="50" height="50" as="geometry" />
