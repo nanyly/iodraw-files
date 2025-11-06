@@ -290,7 +290,7 @@
           <mxGeometry x="-362" y="620" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-90" value="图片状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="725" width="86" height="40" as="geometry" />
+          <mxGeometry x="-264" y="705" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-91" value="图片地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-276" y="525" width="86" height="40" as="geometry" />
