@@ -664,7 +664,7 @@
         <mxCell id="7BQNaI0xOycjIIAOOKjN-225" value="服务项目ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-403" y="-220" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-226" value="服务项目ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-226" value="用户头像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="230" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-227" value="服务项目ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -684,9 +684,6 @@
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-232" value="服务项目ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-142" y="-60" width="86" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-234" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="238" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
