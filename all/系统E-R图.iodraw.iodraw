@@ -35,7 +35,7 @@
           <mxGeometry x="80" y="525" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-11" value="证件号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-8" y="470" width="86" height="40" as="geometry" />
+          <mxGeometry x="12" y="485" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-12" value="简介" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-77.5" y="290" width="86" height="40" as="geometry" />
@@ -589,10 +589,10 @@
             <mxPoint x="336" y="489.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-189" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BQNaI0xOycjIIAOOKjN-39" target="7BQNaI0xOycjIIAOOKjN-1">
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-189" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BQNaI0xOycjIIAOOKjN-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="410" as="sourcePoint" />
-            <mxPoint x="370" y="360" as="targetPoint" />
+            <mxPoint x="180" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-190" value="产生" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
