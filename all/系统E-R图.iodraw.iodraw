@@ -793,8 +793,8 @@
         <mxCell id="7BQNaI0xOycjIIAOOKjN-264" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="-40" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-265" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="-30" width="86" height="40" as="geometry" />
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-265" value="家政员ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-414" y="162.5" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-266" value="投诉ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-336" y="122.5" width="86" height="40" as="geometry" />
