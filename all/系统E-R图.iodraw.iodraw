@@ -140,7 +140,7 @@
           <mxGeometry x="390" y="480" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-39" value="选购" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-178" y="459.5" width="50" height="50" as="geometry" />
+          <mxGeometry x="-88" y="459.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-40" value="操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="140" width="50" height="50" as="geometry" />
@@ -759,6 +759,9 @@
             <mxPoint x="-500" y="270" as="sourcePoint" />
             <mxPoint x="-450" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-252" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="340" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
