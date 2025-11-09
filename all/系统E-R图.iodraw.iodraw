@@ -776,7 +776,7 @@
           <mxGeometry x="-495.5" y="391" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-262" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-820" y="-320" width="86" height="40" as="geometry" />
+          <mxGeometry x="-640" y="136" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-263" value="内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-503.5" y="321" width="86" height="40" as="geometry" />
@@ -793,13 +793,8 @@
         <mxCell id="7BQNaI0xOycjIIAOOKjN-272" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-810" y="-310" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BQNaI0xOycjIIAOOKjN-273">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-590" y="-30" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-273" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-850" y="-220" width="86" height="40" as="geometry" />
+          <mxGeometry x="-606" y="70" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-274" value="处理结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-409.5" y="440" width="86" height="40" as="geometry" />
