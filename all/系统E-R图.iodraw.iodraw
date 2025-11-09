@@ -133,9 +133,6 @@
         <mxCell id="7BQNaI0xOycjIIAOOKjN-34" value="操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="503" y="296" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-297" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7BQNaI0xOycjIIAOOKjN-37" target="7BQNaI0xOycjIIAOOKjN-296">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-37" value="对应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="648" y="550" width="50" height="50" as="geometry" />
         </mxCell>
