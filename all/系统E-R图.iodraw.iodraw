@@ -979,7 +979,7 @@
           <mxGeometry x="-1423.25" y="265" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-22" value="解除封禁时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1397" y="396" width="86" height="40" as="geometry" />
+          <mxGeometry x="-1295" y="424.5" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-23" value="封禁时长" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1425" y="325" width="86" height="40" as="geometry" />
