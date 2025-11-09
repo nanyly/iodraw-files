@@ -167,7 +167,7 @@
         <mxCell id="7BQNaI0xOycjIIAOOKjN-48" value="省份" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-965" y="201" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-49" value="联系电话" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-49" value="联系人电话" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-893" y="171" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-50" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -223,7 +223,7 @@
             <mxPoint x="-662.0000000000027" y="286" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-61" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7BQNaI0xOycjIIAOOKjN-44" target="7BQNaI0xOycjIIAOOKjN-50" edge="1">
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-61" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="7BQNaI0xOycjIIAOOKjN-44" target="7BQNaI0xOycjIIAOOKjN-50" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-878" y="381" as="sourcePoint" />
             <mxPoint x="-828" y="331" as="targetPoint" />
