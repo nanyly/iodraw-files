@@ -976,7 +976,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-21" value="封禁时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1418" y="309.5" width="86" height="40" as="geometry" />
+          <mxGeometry x="-1429" y="300" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-22" value="解除封禁时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1295" y="424.5" width="86" height="40" as="geometry" />
@@ -985,7 +985,7 @@
           <mxGeometry x="-1397" y="389" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-24" value="封禁原因" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1362.5" y="211" width="86" height="40" as="geometry" />
+          <mxGeometry x="-1397" y="211" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-25" value="被封禁用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1267.25" y="202" width="86" height="40" as="geometry" />
@@ -1005,7 +1005,7 @@
             <mxPoint x="-1240" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gUcIHs0veWdiFiyi5lXI-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gUcIHs0veWdiFiyi5lXI-21" target="gUcIHs0veWdiFiyi5lXI-13">
+        <mxCell id="gUcIHs0veWdiFiyi5lXI-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gUcIHs0veWdiFiyi5lXI-21" target="gUcIHs0veWdiFiyi5lXI-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1261" y="458" as="sourcePoint" />
             <mxPoint x="-1230" y="365" as="targetPoint" />
