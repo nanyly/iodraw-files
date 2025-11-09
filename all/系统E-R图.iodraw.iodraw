@@ -948,10 +948,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-13" value="管理员操作日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1300" y="343" width="70" height="50" as="geometry" />
+          <mxGeometry x="-1285" y="295" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-14" value="操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1004" y="444" width="50" height="50" as="geometry" />
+          <mxGeometry x="-1052" y="402" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gUcIHs0veWdiFiyi5lXI-14" target="7BQNaI0xOycjIIAOOKjN-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
