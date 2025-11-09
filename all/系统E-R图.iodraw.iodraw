@@ -864,8 +864,8 @@
             <mxPoint x="-399" y="751" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-304" value="投诉ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1275" y="550.5" width="86" height="40" as="geometry" />
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-304" value="投诉时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1226" y="583" width="86" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
