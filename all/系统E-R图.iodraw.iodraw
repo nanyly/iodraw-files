@@ -359,6 +359,11 @@
             <mxPoint x="-89" y="986" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-325" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7BQNaI0xOycjIIAOOKjN-120">
+          <mxGeometry x="0.0398" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-121" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BQNaI0xOycjIIAOOKjN-193" target="7BQNaI0xOycjIIAOOKjN-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-139" y="1036" as="sourcePoint" />
@@ -701,6 +706,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-195" y="474.5" as="sourcePoint" />
             <mxPoint x="-145" y="424.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-324" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7BQNaI0xOycjIIAOOKjN-219">
+          <mxGeometry x="-0.0602" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-226" value="用户头像地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
