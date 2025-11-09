@@ -775,9 +775,6 @@
         <mxCell id="7BQNaI0xOycjIIAOOKjN-261" value="处理状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-495.5" y="391" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-262" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="136" width="86" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-263" value="内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-503.5" y="321" width="86" height="40" as="geometry" />
         </mxCell>
@@ -791,7 +788,7 @@
           <mxGeometry x="-213.5" y="349.5" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-273" value="投诉图片地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-606" y="70" width="86" height="40" as="geometry" />
+          <mxGeometry x="-585" y="216" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-274" value="处理结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-409.5" y="440" width="86" height="40" as="geometry" />
