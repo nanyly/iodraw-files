@@ -20,7 +20,7 @@
           <mxGeometry x="-656" y="774" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-6" value="服务项目ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-188" y="970.5" width="86" height="40" as="geometry" />
+          <mxGeometry x="-179" y="931" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-7" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-606" y="561" width="86" height="40" as="geometry" />
@@ -511,7 +511,7 @@
             <mxPoint x="-526" y="1106" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-143" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BQNaI0xOycjIIAOOKjN-64" target="7BQNaI0xOycjIIAOOKjN-6">
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-143" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BQNaI0xOycjIIAOOKjN-64" target="7BQNaI0xOycjIIAOOKjN-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-576" y="1156" as="sourcePoint" />
             <mxPoint x="-526" y="1106" as="targetPoint" />
