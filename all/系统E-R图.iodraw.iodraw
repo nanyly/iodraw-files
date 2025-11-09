@@ -770,7 +770,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-259" value="投诉图片ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="160" width="86" height="40" as="geometry" />
+          <mxGeometry x="-542" y="90" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-261" value="处理状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-495.5" y="391" width="86" height="40" as="geometry" />
@@ -797,7 +797,7 @@
           <mxGeometry x="-280" y="437" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-276" value="投诉图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-448" y="110" width="70" height="50" as="geometry" />
+          <mxGeometry x="-456" y="145" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-277" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-446" y="256" width="50" height="50" as="geometry" />
