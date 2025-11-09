@@ -174,7 +174,7 @@
           <mxGeometry x="-672" y="281" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-51" value="用户角色&lt;div&gt;枚举：customer=客户 / provider=家政员 / admin=管理员&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1048" y="442" width="133.5" height="65" as="geometry" />
+          <mxGeometry x="-1048.5" y="472" width="133.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-52" value="地址属性名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-681" y="221" width="86" height="40" as="geometry" />
@@ -716,7 +716,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-226" value="用户头像地址" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1055" y="521" width="86" height="40" as="geometry" />
+          <mxGeometry x="-1051" y="568" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-227" value="完成单量" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="429" width="86" height="40" as="geometry" />
