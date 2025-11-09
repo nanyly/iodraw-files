@@ -947,7 +947,7 @@
         <mxCell id="gUcIHs0veWdiFiyi5lXI-4" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1544" y="834" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gUcIHs0veWdiFiyi5lXI-11" value="联系人电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gUcIHs0veWdiFiyi5lXI-11" value="联系人姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-819" y="145" width="86" height="40" as="geometry" />
         </mxCell>
       </root>
