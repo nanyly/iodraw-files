@@ -982,10 +982,10 @@
           <mxGeometry x="-1460" y="133" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-23" value="订单ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1450" y="143" width="86" height="40" as="geometry" />
+          <mxGeometry x="-1418" y="251" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gUcIHs0veWdiFiyi5lXI-24" value="订单ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1440" y="153" width="86" height="40" as="geometry" />
+        <mxCell id="gUcIHs0veWdiFiyi5lXI-24" value="禁封原因" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1362.5" y="211" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-25" value="被禁封用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1267.25" y="202" width="86" height="40" as="geometry" />
