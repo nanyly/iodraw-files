@@ -947,7 +947,7 @@
             <mxPoint x="-890" y="217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gUcIHs0veWdiFiyi5lXI-13" value="投诉举报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gUcIHs0veWdiFiyi5lXI-13" value="管理员操作日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1300" y="343" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-14" value="操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -964,7 +964,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gUcIHs0veWdiFiyi5lXI-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gUcIHs0veWdiFiyi5lXI-13">
+        <mxCell id="gUcIHs0veWdiFiyi5lXI-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gUcIHs0veWdiFiyi5lXI-13" target="gUcIHs0veWdiFiyi5lXI-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1282" y="658" as="sourcePoint" />
             <mxPoint x="-1077" y="656" as="targetPoint" />
