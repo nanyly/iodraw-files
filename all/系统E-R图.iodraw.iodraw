@@ -947,6 +947,9 @@
             <mxPoint x="-890" y="217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gUcIHs0veWdiFiyi5lXI-13" value="投诉举报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1352.5" y="633" width="70" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
