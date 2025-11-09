@@ -649,7 +649,7 @@
           <mxGeometry x="-1345.25" y="971" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-198" value="选购数量" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1441.75" y="941" width="86" height="40" as="geometry" />
+          <mxGeometry x="-1439" y="946" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-199" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1441.75" y="811" width="86" height="40" as="geometry" />
@@ -816,7 +816,7 @@
           <mxGeometry x="-1511" y="668" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-263" value="内容" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1519" y="598" width="86" height="40" as="geometry" />
+          <mxGeometry x="-1511" y="580.5" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-264" value="订单ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1448.5" y="540.5" width="86" height="40" as="geometry" />
