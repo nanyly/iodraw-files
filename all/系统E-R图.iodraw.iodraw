@@ -798,6 +798,11 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gUcIHs0veWdiFiyi5lXI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7BQNaI0xOycjIIAOOKjN-255">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1064.1666793823242" y="603.7500762939453" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-255" value="操作" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1086.5" y="620.5" width="50" height="50" as="geometry" />
         </mxCell>
@@ -948,7 +953,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-13" value="投诉举报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1352.5" y="633" width="70" height="50" as="geometry" />
+          <mxGeometry x="-1300" y="343" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gUcIHs0veWdiFiyi5lXI-14" value="操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1076.5" y="630.5" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
