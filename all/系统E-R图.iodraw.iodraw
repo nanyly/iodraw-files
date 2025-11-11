@@ -805,6 +805,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1482" y="559.5" as="sourcePoint" />
             <mxPoint x="-1079.5" y="574" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1083" y="577" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-314" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7BQNaI0xOycjIIAOOKjN-257" vertex="1" connectable="0">
@@ -823,9 +826,6 @@
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-266" value="投诉ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1278" y="469" width="86" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gUcIHs0veWdiFiyi5lXI-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7BQNaI0xOycjIIAOOKjN-267" target="7BQNaI0xOycjIIAOOKjN-255">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-267" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1212" y="601.5" width="86" height="40" as="geometry" />
