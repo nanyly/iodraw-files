@@ -611,7 +611,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-188" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="7BQNaI0xOycjIIAOOKjN-202" edge="1">
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-188" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="7BQNaI0xOycjIIAOOKjN-202" target="gUcIHs0veWdiFiyi5lXI-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-731.25" y="961" as="sourcePoint" />
             <mxPoint x="-1228" y="892" as="targetPoint" />
@@ -1046,8 +1046,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gUcIHs0veWdiFiyi5lXI-39" value="选购" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1246" y="814" width="50" height="50" as="geometry" />
+        <mxCell id="gUcIHs0veWdiFiyi5lXI-39" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1262" y="832" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
