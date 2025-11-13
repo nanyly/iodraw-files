@@ -1049,6 +1049,17 @@
         <mxCell id="gUcIHs0veWdiFiyi5lXI-39" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1262" y="832" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="gUcIHs0veWdiFiyi5lXI-42" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1210" y="756" as="sourcePoint" />
+            <mxPoint x="-1087" y="719" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gUcIHs0veWdiFiyi5lXI-43" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gUcIHs0veWdiFiyi5lXI-42">
+          <mxGeometry x="-0.014" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
