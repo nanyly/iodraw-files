@@ -1032,7 +1032,7 @@
             <mxPoint x="-1121.5" y="376" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gUcIHs0veWdiFiyi5lXI-35" value="服务项目选购" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gUcIHs0veWdiFiyi5lXI-35" value="购物车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1212" y="717" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
