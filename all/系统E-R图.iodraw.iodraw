@@ -594,7 +594,7 @@
             <mxPoint x="-739.25" y="817" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-186" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="7BQNaI0xOycjIIAOOKjN-202" target="7BQNaI0xOycjIIAOOKjN-201" edge="1">
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-186" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="gUcIHs0veWdiFiyi5lXI-35" target="7BQNaI0xOycjIIAOOKjN-201" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1244.5" y="904" as="sourcePoint" />
             <mxPoint x="-702.5" y="934" as="targetPoint" />
@@ -655,7 +655,7 @@
           <mxGeometry x="-1111" y="823" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-200" value="购物车商品ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1359.25" y="697" width="86" height="40" as="geometry" />
+          <mxGeometry x="-1476" y="700" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-201" value="选购ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1200" y="783" width="86" height="40" as="geometry" />
