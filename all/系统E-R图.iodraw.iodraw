@@ -368,10 +368,10 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-122" value="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="7BQNaI0xOycjIIAOOKjN-193" target="7BQNaI0xOycjIIAOOKjN-39" edge="1">
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-122" value="1" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="7BQNaI0xOycjIIAOOKjN-193" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1089" y="931" as="sourcePoint" />
-            <mxPoint x="-89" y="986" as="targetPoint" />
+            <mxPoint x="-1144" y="843" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-123" value="n" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="7BQNaI0xOycjIIAOOKjN-65" target="7BQNaI0xOycjIIAOOKjN-190" edge="1">
@@ -1031,6 +1031,9 @@
             <mxPoint x="-1152.5" y="469" as="sourcePoint" />
             <mxPoint x="-1121.5" y="376" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gUcIHs0veWdiFiyi5lXI-35" value="服务项目选购" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1341.25" y="793" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
