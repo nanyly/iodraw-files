@@ -1087,8 +1087,8 @@
             <mxPoint x="-1209" y="992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gUcIHs0veWdiFiyi5lXI-52" value="管理员ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1104" y="230" width="86" height="40" as="geometry" />
+        <mxCell id="gUcIHs0veWdiFiyi5lXI-52" value="日志ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1094" y="283" width="86" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
