@@ -654,13 +654,13 @@
         <mxCell id="7BQNaI0xOycjIIAOOKjN-199" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1452" y="751" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-200" value="购物车商品ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1367.5" y="837" width="86" height="40" as="geometry" />
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-200" value="所属购物车ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1369.5" y="837" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-201" value="选购ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1456" y="702" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7BQNaI0xOycjIIAOOKjN-202" value="购物车商品" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7BQNaI0xOycjIIAOOKjN-202" value="购物车项目" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1361.25" y="910" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7BQNaI0xOycjIIAOOKjN-204" value="包含" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
