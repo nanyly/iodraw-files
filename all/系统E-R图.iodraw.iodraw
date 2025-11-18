@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="PEsTvfZ6Myl0dl5F__dK">
-    <mxGraphModel dx="6892" dy="949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11648" dy="1660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1097,7 +1097,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-54" value="@startuml" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-3880" y="532" width="291" height="130" as="geometry" />
+          <mxGeometry x="-7996" y="498" width="291" height="130" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-55" value="&#39; 家政平台 ER 图（基于 db/schema.sql 自动生成）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-54">
           <mxGeometry y="26" width="291" height="26" as="geometry" />
@@ -1112,7 +1112,7 @@
           <mxGeometry y="104" width="291" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-59" value="entity &quot;users\n用户表&quot; as users {" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-3680" y="532" width="286" height="364" as="geometry" />
+          <mxGeometry x="-7796" y="498" width="286" height="364" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-60" value="  * user_id : BIGINT &lt;&lt;用户ID（主键）&gt;&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-59">
           <mxGeometry y="26" width="286" height="26" as="geometry" />
@@ -1154,7 +1154,7 @@
           <mxGeometry y="338" width="286" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-73" value="entity &quot;staffs\n家政员表&quot; as staffs {" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-3423" y="532" width="257" height="338" as="geometry" />
+          <mxGeometry x="-7539" y="498" width="257" height="338" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-74" value="  * staff_id : BIGINT &lt;&lt;家政员ID（主键）&gt;&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-73">
           <mxGeometry y="26" width="257" height="26" as="geometry" />
@@ -1193,7 +1193,7 @@
           <mxGeometry y="312" width="257" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-86" value="entity &quot;services\n平台服务表&quot; as services {" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-3156" y="532" width="295" height="338" as="geometry" />
+          <mxGeometry x="-7272" y="498" width="295" height="338" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-87" value="  * service_id : BIGINT &lt;&lt;服务项目ID（主键）&gt;&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-86">
           <mxGeometry y="26" width="295" height="26" as="geometry" />
@@ -1232,7 +1232,7 @@
           <mxGeometry y="312" width="295" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-99" value="entity &quot;addresses\n地址表&quot; as addresses {" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-2846" y="532" width="285" height="312" as="geometry" />
+          <mxGeometry x="-6962" y="498" width="285" height="312" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-100" value="  * address_id : BIGINT &lt;&lt;地址ID（主键）&gt;&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-99">
           <mxGeometry y="26" width="285" height="26" as="geometry" />
@@ -1268,7 +1268,7 @@
           <mxGeometry y="286" width="285" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-111" value="entity &quot;orders\n订单表&quot; as orders {" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-2537" y="532" width="265" height="364" as="geometry" />
+          <mxGeometry x="-6653" y="498" width="265" height="364" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-112" value="  * order_id : BIGINT &lt;&lt;订单ID（主键）&gt;&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-111">
           <mxGeometry y="26" width="265" height="26" as="geometry" />
@@ -1310,7 +1310,7 @@
           <mxGeometry y="338" width="265" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-125" value="entity &quot;reviews\n评价表&quot; as reviews {" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-2271" y="532" width="246" height="234" as="geometry" />
+          <mxGeometry x="-6387" y="498" width="246" height="234" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-126" value="  * review_id : BIGINT &lt;&lt;评价ID（主键）&gt;&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-125">
           <mxGeometry y="26" width="246" height="26" as="geometry" />
@@ -1337,7 +1337,7 @@
           <mxGeometry y="208" width="246" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-134" value="entity &quot;complaints\n投诉举报表&quot; as complaints {" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-1991" y="532" width="297" height="312" as="geometry" />
+          <mxGeometry x="-6107" y="498" width="297" height="312" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-135" value="  * complaint_id : BIGINT &lt;&lt;投诉ID（主键）&gt;&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-134">
           <mxGeometry y="26" width="297" height="26" as="geometry" />
@@ -1373,7 +1373,7 @@
           <mxGeometry y="286" width="297" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-146" value="entity &quot;images\n图片表&quot; as images {" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-1654" y="532" width="255" height="156" as="geometry" />
+          <mxGeometry x="-5770" y="498" width="255" height="156" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-147" value="  * image_id : BIGINT &lt;&lt;图片ID（主键）&gt;&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-146">
           <mxGeometry y="26" width="255" height="26" as="geometry" />
@@ -1391,7 +1391,7 @@
           <mxGeometry y="130" width="255" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-152" value="entity &quot;carts\n购物车表&quot; as carts {" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-1378" y="532" width="243" height="156" as="geometry" />
+          <mxGeometry x="-5494" y="498" width="243" height="156" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-153" value="  * cart_id : BIGINT &lt;&lt;购物车ID（主键）&gt;&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-152">
           <mxGeometry y="26" width="243" height="26" as="geometry" />
@@ -1409,7 +1409,7 @@
           <mxGeometry y="130" width="243" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-158" value="entity &quot;service_selections\n购物车项（cart items）&quot; as service_selections {" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-1116" y="532" width="442" height="234" as="geometry" />
+          <mxGeometry x="-5232" y="498" width="442" height="234" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-159" value="  * service_selection_id : BIGINT &lt;&lt;购物车项ID（主键）&gt;&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-158">
           <mxGeometry y="26" width="442" height="26" as="geometry" />
@@ -1436,7 +1436,7 @@
           <mxGeometry y="208" width="442" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-167" value="entity &quot;staff_services\n家政员可提供的平台服务&quot; as staff_services {" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-634" y="532" width="401" height="260" as="geometry" />
+          <mxGeometry x="-4750" y="498" width="401" height="260" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-168" value="  * staff_service_id : BIGINT &lt;&lt;关联ID（主键）&gt;&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-167">
           <mxGeometry y="26" width="401" height="26" as="geometry" />
@@ -1466,7 +1466,7 @@
           <mxGeometry y="234" width="401" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-177" value="entity &quot;ban_logs\n封禁日志&quot; as ban_logs {" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-193" y="532" width="278" height="234" as="geometry" />
+          <mxGeometry x="-4309" y="498" width="278" height="234" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-178" value="  * ban_log_id : BIGINT &lt;&lt;封禁日志ID（主键）&gt;&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-177">
           <mxGeometry y="26" width="278" height="26" as="geometry" />
@@ -1493,7 +1493,7 @@
           <mxGeometry y="208" width="278" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-186" value="&#39; 关系（外键）" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="115" y="532" width="355" height="182" as="geometry" />
+          <mxGeometry x="-4001" y="498" width="355" height="182" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-187" value="users ||--o{ staffs : &quot;1:N user -&gt; staff&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-186">
           <mxGeometry y="26" width="355" height="26" as="geometry" />
@@ -1514,19 +1514,19 @@
           <mxGeometry y="156" width="355" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-193" value="staffs ||--o{ staff_services : &quot;1:N staff -&gt; staff_services&quot;" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="532" width="340" height="52" as="geometry" />
+          <mxGeometry x="-3801" y="498" width="340" height="52" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-194" value="services ||--o{ staff_services : &quot;1:N service -&gt; staff_services&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-193">
           <mxGeometry y="26" width="340" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-195" value="services ||--o{ service_selections : &quot;1:N service -&gt; selections&quot;" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="687" y="532" width="368" height="52" as="geometry" />
+          <mxGeometry x="-3429" y="498" width="368" height="52" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-196" value="carts ||--o{ service_selections : &quot;1:N cart -&gt; selections&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-195">
           <mxGeometry y="26" width="368" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-197" value="services ||--o{ orders : &quot;1:N service -&gt; orders&quot;" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="1095" y="532" width="290" height="104" as="geometry" />
+          <mxGeometry x="-3021" y="498" width="290" height="104" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-198" value="staffs ||--o{ orders : &quot;1:N staff -&gt; orders&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-197">
           <mxGeometry y="26" width="290" height="26" as="geometry" />
@@ -1538,19 +1538,19 @@
           <mxGeometry y="78" width="290" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-201" value="orders ||--o{ reviews : &quot;1:N order -&gt; reviews&quot;" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="532" width="289" height="52" as="geometry" />
+          <mxGeometry x="-2696" y="498" width="289" height="52" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-202" value="orders ||--o{ complaints : &quot;1:N order -&gt; complaints&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-201">
           <mxGeometry y="26" width="289" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-203" value="ban_logs }o--|| users : &quot;banned_user_id -&gt; users.user_id&quot;" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="1738" y="532" width="349" height="52" as="geometry" />
+          <mxGeometry x="-2378" y="498" width="349" height="52" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-204" value="ban_logs }o--|| users : &quot;admin_id -&gt; users.user_id&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gUcIHs0veWdiFiyi5lXI-203">
           <mxGeometry y="26" width="349" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gUcIHs0veWdiFiyi5lXI-205" value="@enduml" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="2127" y="532" width="160" height="30" as="geometry" />
+          <mxGeometry x="-1989" y="498" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
