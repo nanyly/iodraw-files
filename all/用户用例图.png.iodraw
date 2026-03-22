@@ -1,0 +1,91 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="kDs9Nxuikn6CR0sXTMiW">
+    <mxGraphModel dx="906" dy="655" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="317" width="210" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-1" value="注册登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="196" y="134" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-4" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="350" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-11" value="浏览与筛选服务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="194" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-12" value="预约下单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="370" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-13" value="支付订单&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22190%22%20y%3D%22190%22%20width%3D%22110%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="427" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-14" value="提交投诉申诉" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="657" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lfKsTZT3Yt40F8DbFEc1-4" target="lfKsTZT3Yt40F8DbFEc1-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="230" as="sourcePoint" />
+            <mxPoint x="120" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lfKsTZT3Yt40F8DbFEc1-4" target="lfKsTZT3Yt40F8DbFEc1-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="460" as="sourcePoint" />
+            <mxPoint x="90" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lfKsTZT3Yt40F8DbFEc1-4" target="lfKsTZT3Yt40F8DbFEc1-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="460" as="sourcePoint" />
+            <mxPoint x="80" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lfKsTZT3Yt40F8DbFEc1-4" target="lfKsTZT3Yt40F8DbFEc1-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="470" as="sourcePoint" />
+            <mxPoint x="40" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lfKsTZT3Yt40F8DbFEc1-4" target="lfKsTZT3Yt40F8DbFEc1-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="480" as="sourcePoint" />
+            <mxPoint x="70" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-21" value="查看投诉&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%B5%8F%E8%A7%88%E4%B8%8E%E7%AD%9B%E9%80%89%E6%9C%8D%E5%8A%A1%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22170%22%20y%3D%22290%22%20width%3D%22110%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;处理进度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="24" y="641" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-22" value="申请退款" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="598" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-23" value="评价服务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="541" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-24" value="订单查询与状态跟踪" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="231" y="485" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-25" value="购物车管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="306" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-26" value="服务详情查看" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227" y="249" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-27" value="个人信息与地址管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201" y="775" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-28" value="消息通知查看" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="716" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lfKsTZT3Yt40F8DbFEc1-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lfKsTZT3Yt40F8DbFEc1-4" target="lfKsTZT3Yt40F8DbFEc1-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279" y="499" as="sourcePoint" />
+            <mxPoint x="329" y="449" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
